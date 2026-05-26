@@ -1,67 +1,14 @@
 {
   "schemaVersion": 1,
-  "sourcePath": "github.com/Riverty-Tech-Innovation/skills/skills",
+  "sourcePath": "github.com/diogolopesAV/TestRepo/skills",
   "skills": [
     {
-      "name": "bip-python-skill",
-      "description": "Comprehensive Python coding practices for writing maintainable, secure, and scalable code following BIP standards.",
-      "source": "github.com/Riverty-Tech-Innovation/bip-python-skill",
+      "name": "test-mock-skil",
+      "description": "Just a test skill.",
+      "source": "test",
       "tags": [
-        "bip",
-        "python"
-      ]
-    },
-    {
-      "name": "bip-terraform-skill",
-      "description": "Comprehensive Terraform coding practices for writing maintainable, secure, and scalable Infrastructure as Code following BIP standards.",
-      "source": "github.com/Riverty-Tech-Innovation/bip-terraform-skill",
-      "tags": [
-        "bip",
-        "iac",
-        "terraform"
-      ]
-    },
-    {
-      "name": "rty-atlassian-mcp",
-      "description": "Provides agents with access to Jira and Confluence via Atlassian's official cloud MCP server",
-      "source": "ai/rty-atlassian-mcp",
-      "tags": [
-        "ai",
-        "confluence",
-        "jira",
-        "mcp"
-      ]
-    },
-    {
-      "name": "rty-skill-authoring",
-      "description": "Creates, reviews, and refines agent skills following the agentskills.io specification and Riverty conventions. Use when the user wants to author a new skill, improve an existing skill's structure, optimize frontmatter for discoverability, apply progressive disclosure, or validate skill quality. Do not use for installing, distributing, or consuming existing skills, writing general documentation, or managing repository configuration.",
-      "source": "ai/rty-skill-authoring",
-      "tags": [
-        "ai",
-        "skill",
-        "workflow"
-      ]
-    },
-    {
-      "name": "rty-terraform-azure-cdn-classic-migration",
-      "description": "Guides the full Azure CDN Classic to Azure Front Door migration for Terraform-managed environments. Use when a Portal migration has already created Azure Front Door resources and Terraform must be rewritten, state-migrated, imported, and reconciled across environments, including Key Vault-backed certificate cases. Do not use for brand-new Front Door deployments, generic Terraform state repair, or non-classic CDN migrations.",
-      "source": "rty-terraform-azure-cdn-classic-migration",
-      "tags": [
-        "azure",
-        "migration",
-        "terraform"
-      ]
-    },
-    {
-      "name": "rty-web-accessibility",
-      "description": "Ensures all generated HTML and CSS/SCSS is WCAG 2.1/2.2 Level AA compliant. Use when creating a new web page, building a new feature, generating a component, auditing and fixing accessibility issues, implementing keyboard navigation, checking color contrast, and applying correct ARIA attributes. Do not use for native mobile apps, PDF accessibility, or non-web documents.",
-      "source": "design-system/rty-web-accessibility",
-      "tags": [
-        "accessibility",
-        "css",
-        "design-system",
-        "html",
-        "scss"
+        "test",
+        "mock"
       ]
     }
   ]
