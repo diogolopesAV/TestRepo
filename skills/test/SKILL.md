@@ -2,7 +2,7 @@
 name: mock-validation-skill
 description: A comprehensive mock skill designed to validate the Python backend's PyYAML frontmatter extraction and markdown parsing logic.
 complexity: advanced
-time_to_learn: 15 minutes
+time_to_learn: 15 minute
 license: MIT
 allowed-tools:
   - read_file
