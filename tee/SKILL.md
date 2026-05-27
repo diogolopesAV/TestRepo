@@ -15,3 +15,4 @@ Describe in 1–3 sentences when and how to use this skill. Reference any requir
 ## Examples
 - Example 1 — input summary and expected outcome
 - Example 2 — when to prefer another skill instead
+- Example 3
