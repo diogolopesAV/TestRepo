@@ -1,0 +1,11 @@
+[
+  {
+    "name": "neo4j",
+    "description": "This is a test skill for Neo4j",
+    "source": "github.com/neo4j/skills",
+    "skill": "vector_search",
+    "tags": [
+      "db"
+    ]
+  }
+]
