@@ -1,0 +1,14 @@
+{
+  "name": "riverty-skills-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:skillshare-hubs": "node scripts/build-skillshare-hubs.js",
+    "check:skillshare-hubs": "node scripts/build-skillshare-hubs.js --check",
+    "sync:confluence:dry-run": "node scripts/sync-confluence-skills.js --dry-run",
+    "sync:confluence:apply": "node scripts/sync-confluence-skills.js --apply",
+    "check:sync-script": "node --check scripts/sync-confluence-skills.js",
+    "test": "node scripts/run-tests.js",
+    "test:coverage": "node scripts/run-tests.js --coverage"
+  }
+}
