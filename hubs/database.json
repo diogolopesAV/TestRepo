@@ -3,14 +3,6 @@
   "sourcePath": "github.com/Riverty-Tech-Innovation/skills/skills",
   "skills": [
     {
-      "name": "rty-aip-test-skill",
-      "description": "dqhdoqwhddjqdwqdokwodq",
-      "source": "bro/rty-aip-test-skill",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "name": "rty-aip-testneo4j-skill",
       "description": "uDHOQIDQMDQ,DQPDEDQDLPE",
       "source": "database/rty-aip-testneo4j-skill",
