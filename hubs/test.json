@@ -10,14 +10,6 @@
         "ai",
         "test"
       ]
-    },
-    {
-      "name": "rty-aip-test-skill",
-      "description": "dqhdoqwhddjqdwqdokwodq",
-      "source": "bro/rty-aip-test-skill",
-      "tags": [
-        "ai"
-      ]
     }
   ]
 }
