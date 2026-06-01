@@ -2,7 +2,7 @@
 name: rty-aip-test-skill-2-skill
 description: "cwkjcwosºdkcwoekcqwkoºcmmcq"
 metadata:
-  skillshare-tags: ai
+  skillshare-tags: ai, db
 ---
 
 # New Skill
