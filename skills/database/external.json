@@ -1,0 +1,10 @@
+[
+  {
+    "name": "neo4j-skills",
+    "description": "This is the official repository for neo4j skills",
+    "source": "https://github.com/neo4j-contrib/neo4j-skills",
+    "tags": [
+      "db"
+    ]
+  }
+]
