@@ -9,6 +9,14 @@
       "tags": [
         "db"
       ]
+    },
+    {
+      "name": "rty-aip-test-redis-skill",
+      "description": "cwekcewmcmweopcmopwcmemcewocl",
+      "source": "database/rty-aip-test-redis-skill",
+      "tags": [
+        "db"
+      ]
     }
   ]
 }
