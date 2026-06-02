@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "sourcePath": "github.com/Riverty-Tech-Innovation/skills/skills",
+  "skills": [
+    {
+      "name": "rty-aip-redis7-skill",
+      "description": "eijceijcemcpmwpcimemwcw",
+      "source": "siu/rty-aip-redis7-skill",
+      "tags": [
+        "db"
+      ]
+    }
+  ]
+}
