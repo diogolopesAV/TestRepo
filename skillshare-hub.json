@@ -11,6 +11,14 @@
       ]
     },
     {
+      "name": "rty-aip-redis6-skill",
+      "description": "crkocpkrwco,cdcw,cwc",
+      "source": "rd/rty-aip-redis6-skill",
+      "tags": [
+        "rd"
+      ]
+    },
+    {
       "name": "rty-aip-test-skill",
       "description": "dqhdoqwhddjqdwqdokwodq",
       "source": "bro/rty-aip-test-skill",
