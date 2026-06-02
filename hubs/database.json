@@ -9,6 +9,14 @@
       "tags": [
         "db"
       ]
+    },
+    {
+      "name": "rty-aip-test-redis2-skill",
+      "description": "djkoekcewowe,c,ewoccew",
+      "source": "database/rty-aip-test-redis2-skill",
+      "tags": [
+        "db"
+      ]
     }
   ]
 }
