@@ -11,6 +11,14 @@
       ]
     },
     {
+      "name": "rty-aip-redi5-skill",
+      "description": "fd4of4fo4f,2p3l,f34f",
+      "source": "redis/rty-aip-redi5-skill",
+      "tags": [
+        "rd"
+      ]
+    },
+    {
       "name": "rty-aip-test-skill",
       "description": "dqhdoqwhddjqdwqdokwodq",
       "source": "bro/rty-aip-test-skill",
