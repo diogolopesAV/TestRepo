@@ -3,6 +3,7 @@ name: rty-aip-redis7-skill
 description: "eijceijcemcpmwpcimemwcw"
 metadata:
   skillshare-tags: db
+  siu
 ---
 
 # New Skill
