@@ -11,6 +11,14 @@
       ]
     },
     {
+      "name": "rty-aip-test-scan-skill",
+      "description": "Tes t my scanner for security",
+      "source": "scan/rty-aip-test-scan-skill",
+      "tags": [
+        "scan"
+      ]
+    },
+    {
       "name": "rty-aip-test-skill",
       "description": "dqhdoqwhddjqdwqdokwodq",
       "source": "bro/rty-aip-test-skill",

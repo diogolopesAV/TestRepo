@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "sourcePath": "github.com/Riverty-Tech-Innovation/skills/skills",
+  "skills": [
+    {
+      "name": "rty-aip-test-scan-skill",
+      "description": "Tes t my scanner for security",
+      "source": "scan/rty-aip-test-scan-skill",
+      "tags": [
+        "scan"
+      ]
+    }
+  ]
+}
