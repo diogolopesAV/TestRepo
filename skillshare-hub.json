@@ -3,6 +3,11 @@
   "sourcePath": "github.com/Riverty-Tech-Innovation/skills/skills",
   "skills": [
     {
+      "name": "neo4j-skill-scan",
+      "description": "fewjjicweceocmoewkcowkfew",
+      "source": "github.com/neo4j-contrib/neo4j-skills"
+    },
+    {
       "name": "neo4j-skills",
       "description": "This is the official repository for neo4j skills",
       "source": "https://github.com/neo4j-contrib/neo4j-skills",
