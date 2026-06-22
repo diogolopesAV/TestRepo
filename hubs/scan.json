@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "sourcePath": "github.com/Riverty-Tech-Innovation/skills/skills",
+  "skills": [
+    {
+      "name": "rty-aip-tes-scan-2-skill",
+      "description": "dejcopkwkeokcocºec,fec",
+      "source": "scan/rty-aip-tes-scan-2-skill",
+      "tags": [
+        "scan"
+      ]
+    }
+  ]
+}
