@@ -7,7 +7,7 @@ metadata:
 
 # New Skill
 
-## Quick start
+## Quick startt
 Describe in 1–3 sentences when and how to use this skill. Reference any required MCPs here.
 
 ## Guidelines
