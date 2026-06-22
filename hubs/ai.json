@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "sourcePath": "github.com/Riverty-Tech-Innovation/skills/skills",
+  "skills": [
+    {
+      "name": "rty-aip-test-diogo-skill",
+      "description": "jcricmrmcocerco,cerocer",
+      "source": "ai/rty-aip-test-diogo-skill",
+      "tags": [
+        "ai"
+      ]
+    }
+  ]
+}

@@ -11,6 +11,14 @@
       ]
     },
     {
+      "name": "rty-aip-test-diogo-skill",
+      "description": "jcricmrmcocerco,cerocer",
+      "source": "ai/rty-aip-test-diogo-skill",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "name": "rty-aip-test-skill",
       "description": "dqhdoqwhddjqdwqdokwodq",
       "source": "bro/rty-aip-test-skill",
