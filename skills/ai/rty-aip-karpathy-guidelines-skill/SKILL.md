@@ -2,7 +2,7 @@
 name: rty-aip-karpathy-guidelines-skill
 description: "Basic guidelines for clean development"
 metadata:
-  skillshare-tags: ai, guidelines, test
+  skillshare-tags: ai, guidelines
 ---
 
 ---
