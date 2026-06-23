@@ -8,8 +8,6 @@ on:
     paths:
       - 'skills/**'
       - 'scripts/**'
-      - 'package.json'
-      - 'package-lock.json'
 
 jobs:
   validate:
