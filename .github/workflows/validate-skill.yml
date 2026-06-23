@@ -1,0 +1,42 @@
+name: Validate skill
+
+# Runs on every PR targeting main. Validates all SKILL.md and external.json
+# files. Hub output is discarded — PRs must NOT include hub files.
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'skills/**'
+      - 'scripts/**'
+      - 'package.json'
+      - 'package-lock.json'
+
+jobs:
+  validate:
+    name: Validate skill definitions
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - run: npm test
+
+      - name: Prevent hub files in PR
+        run: |
+          if git diff --name-only origin/main...HEAD | grep -qE "^(skillshare-hub\.json|hubs/)"; then
+            echo "::error::PR must not include changes to skillshare-hub.json or the hubs/ directory."
+            echo "These files are regenerated automatically upon merge to avoid conflicts."
+            exit 1
+          fi
+
+      - name: Validate skill compilation
+        run: node scripts/build-skillshare-hubs.js
