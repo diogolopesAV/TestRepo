@@ -12,7 +12,7 @@ import {
 } from "./lib/skills-repo.js";
 
 const DEFAULT_HUBS_DIR = "hubs";
-const DEFAULT_LOCAL_SOURCE_PATH = "github.com/Riverty-Tech-Innovation/skills/skills";
+const DEFAULT_LOCAL_SOURCE_PATH = "github.com/diogolopesAV/TestRepo/skills";
 const DEFAULT_ROOT_HUB_FILE = "skillshare-hub.json";
 const DEFAULT_SKILLS_ROOT = "skills";
 const VALID_SKILL_NAME_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
