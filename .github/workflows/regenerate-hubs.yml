@@ -8,6 +8,7 @@ on:
     paths:
       - 'skills/**'
       - 'scripts/**'
+      - 'package.json'
 
 concurrency:
   group: regenerate-hubs
@@ -27,9 +28,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
-      - run: npm ci
+      - run: npm install
 
       - run: node scripts/build-skillshare-hubs.js
 
